@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/awwardss-rebuild-1/static/css/main.76d5a776.chunk.css",
-    "main.js": "/awwardss-rebuild-1/static/js/main.4fd9c905.chunk.js",
-    "main.js.map": "/awwardss-rebuild-1/static/js/main.4fd9c905.chunk.js.map",
+    "main.js": "/awwardss-rebuild-1/static/js/main.470d81ac.chunk.js",
+    "main.js.map": "/awwardss-rebuild-1/static/js/main.470d81ac.chunk.js.map",
     "runtime-main.js": "/awwardss-rebuild-1/static/js/runtime-main.53bc7181.js",
     "runtime-main.js.map": "/awwardss-rebuild-1/static/js/runtime-main.53bc7181.js.map",
     "static/js/2.1b84754b.chunk.js": "/awwardss-rebuild-1/static/js/2.1b84754b.chunk.js",
     "static/js/2.1b84754b.chunk.js.map": "/awwardss-rebuild-1/static/js/2.1b84754b.chunk.js.map",
     "index.html": "/awwardss-rebuild-1/index.html",
-    "precache-manifest.7209696839665d8b823068b2d87d109a.js": "/awwardss-rebuild-1/precache-manifest.7209696839665d8b823068b2d87d109a.js",
+    "precache-manifest.738c5874b1c22587fa770c750205f3de.js": "/awwardss-rebuild-1/precache-manifest.738c5874b1c22587fa770c750205f3de.js",
     "service-worker.js": "/awwardss-rebuild-1/service-worker.js",
     "static/css/main.76d5a776.chunk.css.map": "/awwardss-rebuild-1/static/css/main.76d5a776.chunk.css.map",
     "static/js/2.1b84754b.chunk.js.LICENSE.txt": "/awwardss-rebuild-1/static/js/2.1b84754b.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.53bc7181.js",
     "static/js/2.1b84754b.chunk.js",
     "static/css/main.76d5a776.chunk.css",
-    "static/js/main.4fd9c905.chunk.js"
+    "static/js/main.470d81ac.chunk.js"
   ]
 }
