@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.76d5a776.chunk.css",
-    "main.js": "/static/js/main.49b0695c.chunk.js",
-    "main.js.map": "/static/js/main.49b0695c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ad540005.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ad540005.js.map",
-    "static/js/2.1b84754b.chunk.js": "/static/js/2.1b84754b.chunk.js",
-    "static/js/2.1b84754b.chunk.js.map": "/static/js/2.1b84754b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.19b873c276b3ce7abba273ae15c8aa60.js": "/precache-manifest.19b873c276b3ce7abba273ae15c8aa60.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.76d5a776.chunk.css.map": "/static/css/main.76d5a776.chunk.css.map",
-    "static/js/2.1b84754b.chunk.js.LICENSE.txt": "/static/js/2.1b84754b.chunk.js.LICENSE.txt",
-    "static/media/arrow-left.f9a44e1c.svg": "/static/media/arrow-left.f9a44e1c.svg",
-    "static/media/arrow-right.dc372a07.svg": "/static/media/arrow-right.dc372a07.svg",
-    "static/media/curology-min.png": "/static/media/curology-min.e84c2055.png",
-    "static/media/lumin-min.png": "/static/media/lumin-min.379bad94.png",
-    "static/media/up-arrow-circle.d6c4e78d.svg": "/static/media/up-arrow-circle.d6c4e78d.svg",
-    "static/media/yourspace-min.png": "/static/media/yourspace-min.5f9e3077.png"
+    "main.css": "/awwardss-rebuild-1/static/css/main.76d5a776.chunk.css",
+    "main.js": "/awwardss-rebuild-1/static/js/main.4fd9c905.chunk.js",
+    "main.js.map": "/awwardss-rebuild-1/static/js/main.4fd9c905.chunk.js.map",
+    "runtime-main.js": "/awwardss-rebuild-1/static/js/runtime-main.53bc7181.js",
+    "runtime-main.js.map": "/awwardss-rebuild-1/static/js/runtime-main.53bc7181.js.map",
+    "static/js/2.1b84754b.chunk.js": "/awwardss-rebuild-1/static/js/2.1b84754b.chunk.js",
+    "static/js/2.1b84754b.chunk.js.map": "/awwardss-rebuild-1/static/js/2.1b84754b.chunk.js.map",
+    "index.html": "/awwardss-rebuild-1/index.html",
+    "precache-manifest.7209696839665d8b823068b2d87d109a.js": "/awwardss-rebuild-1/precache-manifest.7209696839665d8b823068b2d87d109a.js",
+    "service-worker.js": "/awwardss-rebuild-1/service-worker.js",
+    "static/css/main.76d5a776.chunk.css.map": "/awwardss-rebuild-1/static/css/main.76d5a776.chunk.css.map",
+    "static/js/2.1b84754b.chunk.js.LICENSE.txt": "/awwardss-rebuild-1/static/js/2.1b84754b.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "/awwardss-rebuild-1/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "/awwardss-rebuild-1/static/media/arrow-right.dc372a07.svg",
+    "static/media/curology-min.png": "/awwardss-rebuild-1/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/awwardss-rebuild-1/static/media/lumin-min.379bad94.png",
+    "static/media/up-arrow-circle.d6c4e78d.svg": "/awwardss-rebuild-1/static/media/up-arrow-circle.d6c4e78d.svg",
+    "static/media/yourspace-min.png": "/awwardss-rebuild-1/static/media/yourspace-min.5f9e3077.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad540005.js",
+    "static/js/runtime-main.53bc7181.js",
     "static/js/2.1b84754b.chunk.js",
     "static/css/main.76d5a776.chunk.css",
-    "static/js/main.49b0695c.chunk.js"
+    "static/js/main.4fd9c905.chunk.js"
   ]
 }
