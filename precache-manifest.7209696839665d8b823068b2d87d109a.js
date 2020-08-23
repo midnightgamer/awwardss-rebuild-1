@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "784ca994fd967c1d2ca7586742ddd60a",
+    "revision": "498af455f55c0cbea7d01b04aace0765",
     "url": "/awwardss-rebuild-1/index.html"
   },
   {
-    "revision": "367e589f3efd036a76ce",
+    "revision": "21ec1c11ea85cdf618b7",
     "url": "/awwardss-rebuild-1/static/css/main.76d5a776.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/awwardss-rebuild-1/static/js/2.1b84754b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "367e589f3efd036a76ce",
-    "url": "/awwardss-rebuild-1/static/js/main.470d81ac.chunk.js"
+    "revision": "21ec1c11ea85cdf618b7",
+    "url": "/awwardss-rebuild-1/static/js/main.4fd9c905.chunk.js"
   },
   {
     "revision": "6e4ef2dc9aea77f5c3d3",
